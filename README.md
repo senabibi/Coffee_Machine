@@ -60,11 +60,11 @@
 
 ## About The Project
 
-![Coffee GIF](images/coffee.gif)
+![Coffee GIF](images/gifmaker_me)
 
 Here's a video demonstrating the Coffee Machine Simulator in action:
 
-[![Coffee Machine Demo](images/coffee.mp4)](https://example.com)
+[![Coffee Machine Demo](images/gifmaker_me)]([https://example.com](https://github.com/senabibi/Coffee_Machine/blob/main/images/gifmaker_me.gif))
 
 The Coffee Machine Simulator is a Python-based project that emulates the operation of a coffee machine. It allows users to choose from a selection of coffee types, enter the amount of money they want to spend, and, if there are sufficient ingredients in the machine, it prepares the selected coffee and provides change. If the machine is low on any ingredient, it prompts the user to refill the necessary supplies.
 
