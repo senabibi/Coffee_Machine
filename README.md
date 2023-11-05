@@ -148,7 +148,7 @@ _For more examples and detailed guidance, please refer to the [Documentation](ht
 
 You can also check out the [open issues](https://github.com/senabibi/Coffee_Machine/issues) for a full list of proposed features and known issues.
 
-<p align="right">(<a href="#readme-top">en başa dön</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
